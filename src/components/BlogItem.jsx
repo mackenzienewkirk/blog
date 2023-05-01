@@ -46,8 +46,8 @@ export default function RecipeReviewCard() {
             <MoreVertIcon />
           </IconButton>
         }
-        title="Shrimp and Chorizo Paella"
-        subheader="September 14, 2016"
+        title="FullStack, EmptyBlog"
+        subheader="May 1st, 2023"
       />
       <CardMedia
         component="img"
