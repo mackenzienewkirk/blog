@@ -7,6 +7,8 @@ body,
 body {
   font-family: 'Montserrat', sans-serif;
   margin: 0px;
+  background-color: #DADEFF;
+  color: #3E00FF;
 }
 
 img {
