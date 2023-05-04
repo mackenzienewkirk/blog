@@ -1,7 +1,7 @@
 import React from 'react';
 import {useSelector} from 'react-redux';
 import { Card, colors } from '@mui/material';
-import RecipeReviewCard from '../BlogItem';
+import RecipeReviewCard from '../BlogItem/BlogItem';
 
 function UserPage() {
 
