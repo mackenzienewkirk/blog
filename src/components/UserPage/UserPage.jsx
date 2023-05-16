@@ -12,6 +12,9 @@ function UserPage() {
   return (
     <div className="container">
       <h2>Welcome, {user.username}!</h2>
+      <div>
+        <h2>Posts</h2>
+      </div>
       <RecipeReviewCard></RecipeReviewCard>
     </div>
   );
