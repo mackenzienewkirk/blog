@@ -1,9 +1,10 @@
 import React from 'react';
 import {useSelector} from 'react-redux';
-import { Card, colors } from '@mui/material';
+import { Card, colors, Button } from '@mui/material';
 import RecipeReviewCard from '../BlogItem/BlogItem';
 
 function UserPage() {
+
 
 
   
@@ -14,6 +15,7 @@ function UserPage() {
       <h2>Welcome, {user.username}!</h2>
       <div>
         <h2>Posts</h2>
+        <Button>New Post</Button>
       </div>
       <RecipeReviewCard></RecipeReviewCard>
     </div>
