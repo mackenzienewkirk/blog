@@ -2,6 +2,7 @@ import React from 'react';
 import {useSelector} from 'react-redux';
 import { Card, colors, Button } from '@mui/material';
 import RecipeReviewCard from '../BlogItem/BlogItem';
+import { blue } from '@mui/material/colors';
 
 function UserPage() {
 

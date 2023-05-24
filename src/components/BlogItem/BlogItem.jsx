@@ -59,8 +59,7 @@ export default function RecipeReviewCard() {
       />
       <CardContent>
         <Typography variant="body2" color="text.secondary">
-          This is the first post in my personal blog. I have been lookking for a personal passion project to practice my FullStack skills, and also design skills. 
-          I will be working on my portfolio projects section as well, but this can be a fun alternative to journaling while also practicing my skills. 
+          A blog for Emma to document and reflect her experiences and stories.
         </Typography>
       </CardContent>
       <CardActions disableSpacing>
