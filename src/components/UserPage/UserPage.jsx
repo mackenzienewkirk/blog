@@ -7,8 +7,6 @@ import { blue } from '@mui/material/colors';
 
 function UserPage() {
 
-
-
   const history = useHistory();
   const user = useSelector((store) => store.user);
   return (
