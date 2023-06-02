@@ -9,7 +9,9 @@ function AboutPage() {
   return (
     <div className="container">
       <div>
-        <p>This about page is for anyone to read!</p>
+        <h1>Emma Murano is a midwest queen with a story to tell.</h1>
+        <p> A mother of two, a daughter, an intellectual, and a beautiful soul.</p>
+        
       </div>
     </div>
   );
