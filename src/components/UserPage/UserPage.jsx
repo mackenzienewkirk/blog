@@ -13,7 +13,7 @@ function UserPage() {
     <div className="container">
       <h2>Welcome, {user.username}!</h2>
       <div>
-        <h2>Posts</h2>
+        <h3>Gallery</h3>
         <Button>New Post</Button>
       </div>
       <RecipeReviewCard></RecipeReviewCard>
