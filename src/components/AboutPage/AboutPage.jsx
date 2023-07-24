@@ -10,7 +10,7 @@ function AboutPage() {
     <div className="container">
       <div>
         <h1>THis will act as a blog for my photography and short films.</h1>
-        <p> A mother of two, a daughter, an intellectual, and a beautiful soul.</p>
+        <p> I will be posting my pictures, videos, ideas, and completed projects here.</p>
         
       </div>
     </div>
