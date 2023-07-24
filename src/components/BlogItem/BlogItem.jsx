@@ -82,7 +82,7 @@ export default function RecipeReviewCard() {
       </CardActions>
       <Collapse in={expanded} timeout="auto" unmountOnExit>
         <CardContent>
-          <Typography paragraph>I will be posting once every week once the application is finished.</Typography>
+          <Typography paragraph>A look into the mind of the creator.</Typography>
           
         </CardContent>
       </Collapse>
