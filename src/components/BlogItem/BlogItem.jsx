@@ -50,7 +50,7 @@ export default function RecipeReviewCard() {
             <MoreVertIcon />
           </IconButton>
         }
-        title="FullStack, EmptyBlog"
+        title="Example"
         subheader="May 1st, 2023"
       />
       <CardMedia
@@ -61,7 +61,7 @@ export default function RecipeReviewCard() {
       />
       <CardContent>
         <Typography variant="body2" color="text.secondary">
-          A blog for Emma to document and reflect her experiences and stories.
+          An example post while I'm building the app.
         </Typography>
       </CardContent>
       <CardActions disableSpacing>
