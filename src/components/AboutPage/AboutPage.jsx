@@ -9,7 +9,7 @@ function AboutPage() {
   return (
     <div className="container">
       <div>
-        <h1>Emma Murano is a midwest queen with a story to tell.</h1>
+        <h1>THis will act as a blog for my photography and short films.</h1>
         <p> A mother of two, a daughter, an intellectual, and a beautiful soul.</p>
         
       </div>
