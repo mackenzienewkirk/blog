@@ -13,7 +13,6 @@ function UserPage() {
     <div className="container">
       <h1>Kenzie Newkirk Photography</h1>
       <div>
-        <h3>Gallery</h3>
         <Button>New Post</Button>
       </div>
       <RecipeReviewCard></RecipeReviewCard>
