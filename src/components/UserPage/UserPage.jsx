@@ -13,7 +13,7 @@ function UserPage() {
     <div className="container">
       <h1>What The Fuck Is Going On With Kenzie Newkirk?</h1>
       <div>
-        <Button>New Post</Button>
+        <Button>Post</Button>
       </div>
       <div>
         <h2>Posts</h2>
