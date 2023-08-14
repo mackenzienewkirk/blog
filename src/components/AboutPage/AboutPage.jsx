@@ -14,6 +14,7 @@ function AboutPage() {
         <div>
           <p>Name:</p>
           <p>Email:</p>
+          <p>Message:</p>
         </div>
         
       </div>
