@@ -13,7 +13,7 @@ function AboutPage() {
         <p>Please complete contact sheet below to reach out for more information.</p>
         <div>
           <p>Name:</p>
-          
+          <p>Email:</p>
         </div>
         
       </div>
