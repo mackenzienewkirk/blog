@@ -11,7 +11,13 @@ function InfoPage() {
     <div className="container">
       <h1>Mackenzie Newkirk</h1>
       <h3>| Software Engineer | Photographer | Chef | Musician | Customer Service | Digital Design |</h3>
-      <p>Artistry and Innovation: The career of Mackenzie Newkirk</p>
+      <h4>Artistry and Innovation: The career of Mackenzie Newkirk</h4>
+      <p>My name is Mackenzie Newkirk. 
+        I am a software engineer based out of the Twin Cities, MN. 
+        Currently progressing through an immersive Full Stack Software Engineering course at Prime Digital Academy, and actively building coding projects to practice my skills. 
+        I'm passionate about gaining technical and social skills to contribute creative, thorough ideas to my current projects and schooling. 
+        I grew up in the 'Minnesconsin' area of the Midwest, and tour to new places when I can. 
+        If I'm not coding, you can find me at the local movie theaters, coffee shops, and MN State Parks.</p>
     </div>
   );
 }
