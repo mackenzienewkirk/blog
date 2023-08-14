@@ -9,10 +9,10 @@ import './InfoPage.css';
 function InfoPage() {
   return (
     <div className="container">
-      <h1>Mackenzie Newkirk</h1>
+      <h1>Kenzie Newkirk</h1>
       <h3>| Software Engineer | Photographer | Chef | Musician | Customer Service | Digital Design |</h3>
       <h4>Artistry and Innovation: The career of Mackenzie Newkirk</h4>
-      <p>My name is Mackenzie Newkirk. 
+      <p>My name is Mackenzie Newkirk, or Kenzie if were friends. 
         I am a software engineer based out of the Twin Cities, MN. 
         Currently progressing through an immersive Full Stack Software Engineering course at Prime Digital Academy, and actively building coding projects to practice my skills. 
         I'm passionate about gaining technical and social skills to contribute creative, thorough ideas to my current projects and schooling. 

@@ -1,9 +1,14 @@
 .container {
- background-color: #ff00cc;
- color: #ccffcc;
+ background-color: #ffffcc;
+ color: #003366;
  border-radius: 40px;
  margin: auto;
  width: 90%;
  padding: 5px;
  text-align: center;
+}
+
+.container h3 {
+ padding-bottom: 2px;
+ border-style: dotted;
 }
