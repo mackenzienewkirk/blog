@@ -82,7 +82,7 @@ export default function RecipeReviewCard() {
       </CardActions>
       <Collapse in={expanded} timeout="auto" unmountOnExit>
         <CardContent>
-          <Typography paragraph>A look into the mind of the creator.</Typography>
+          <Typography paragraph>Text Here</Typography>
           
         </CardContent>
       </Collapse>
