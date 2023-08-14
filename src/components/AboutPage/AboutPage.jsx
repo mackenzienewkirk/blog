@@ -11,6 +11,10 @@ function AboutPage() {
       <div>
         <h1>Contact</h1>
         <p>Please complete contact sheet below to reach out for more information.</p>
+        <div>
+          <p>Name:</p>
+          
+        </div>
         
       </div>
     </div>
