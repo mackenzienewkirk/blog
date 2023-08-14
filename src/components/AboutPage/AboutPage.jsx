@@ -9,8 +9,8 @@ function AboutPage() {
   return (
     <div className="container">
       <div>
-        <h1>This will act as a blog for my photography and short films.</h1>
-        <p> I will be posting my pictures, videos, ideas, and completed projects here.</p>
+        <h1>Contact</h1>
+        <p>Please complete contact sheet below to reach out for more information.</p>
         
       </div>
     </div>
