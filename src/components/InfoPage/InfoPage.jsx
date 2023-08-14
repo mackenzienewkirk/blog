@@ -9,7 +9,8 @@ import './InfoPage.css';
 function InfoPage() {
   return (
     <div className="container">
-      <h1>Navigating through the changes.</h1>
+      <h1>Kenzie Newkirk</h1>
+      <h3>| Software Engineer | Photographer | Chef | Musician | Customer Service | Digital Design |</h3>
     </div>
   );
 }
