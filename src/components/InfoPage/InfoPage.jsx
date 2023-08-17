@@ -17,7 +17,7 @@ function InfoPage() {
         Currently progressing through an immersive Full Stack Software Engineering course at Prime Digital Academy, and actively building coding projects to practice my skills. 
         I'm passionate about gaining technical and social skills to contribute creative, thorough ideas to my current projects and schooling. 
         I grew up in the 'Minnesconsin' area of the Midwest, and tour to new places when I can. 
-        If I'm not coding, you can find me at the local movie theaters, coffee shops, and MN State Parks.</p>
+        If I'm not coding, you can find me playing guitar or at the local movie theaters, coffee shops, and MN State Parks.</p>
     </div>
   );
 }
