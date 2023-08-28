@@ -11,7 +11,7 @@ function UserPage() {
   const user = useSelector((store) => store.user);
   return (
     <div className="container">
-      <h1>Blog Title</h1>
+      <h1>Mackenzie Newkirk</h1>
       <h2>Photography, Cinematography, and Music</h2>
       <div>
         <Button>Post</Button>
