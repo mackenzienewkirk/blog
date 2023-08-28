@@ -12,7 +12,7 @@ function UserPage() {
   return (
     <div className="container">
       <h1>Blog Title</h1>
-      <h2>Adventures and Tales of Kenzie Newkirk</h2>
+      <h2>Photography, Cinematography, and Music</h2>
       <div>
         <Button>Post</Button>
       </div>
