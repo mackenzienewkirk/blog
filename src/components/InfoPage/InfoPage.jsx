@@ -18,6 +18,7 @@ function InfoPage() {
         I'm passionate about gaining technical and social skills to contribute creative, thorough ideas to my current projects and schooling. 
         I grew up in the 'Minnesconsin' area of the Midwest, and tour to new places when I can. 
         If I'm not coding, you can find me playing guitar or at the local movie theaters, coffee shops, and MN State Parks.</p>
+        <p>I am comfortable with front end and back end work, and I am extremely passionate about well designed websities.</p>
     </div>
   );
 }
