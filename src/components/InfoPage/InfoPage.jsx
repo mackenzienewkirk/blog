@@ -21,6 +21,7 @@ function InfoPage() {
         <p>I am comfortable with front end and back end work, and I am extremely passionate about well designed websities.
           Since my time at Prime Digital Academy, I have been working on skills in MaterialUI, CSS Tailwind, and Bootstrap.
           With Swift I have been learning mobile engineering and design, and React mobile projects.
+          React mobile is the perfect way to transition from soley web engineering and design to mobile with similar code structure.
         </p>
     </div>
   );
