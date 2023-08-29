@@ -24,7 +24,7 @@ function InfoPage() {
           React mobile is the perfect way to transition from soley web engineering and design to mobile with similar code structure.
           Projects with Java and C# have been more complex, but the best way to learn is from your own mistakes.
           I have been attempting to make a weather application through Java. Teaching myself a new language after Prime is difficult,
-          and very interesting.
+          and very interesting. My main language has been Javascript since the beginning, but it is always good to push myself.
         </p>
     </div>
   );
