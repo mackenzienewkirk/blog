@@ -16,6 +16,9 @@ function UserPage() {
       <div>
         <Button>Post</Button>
       </div>
+      <div>
+        <Button>Delete</Button>
+      </div>
       <RecipeReviewCard></RecipeReviewCard>
     </div>
   );

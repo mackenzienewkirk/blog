@@ -14,3 +14,5 @@ const rootReducer = combineReducers({
 });
 
 export default rootReducer;
+
+//Looking in to the rootreducer from Prime Solo Project to finish the blog database set up.
