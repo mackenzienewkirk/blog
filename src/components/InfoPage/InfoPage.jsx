@@ -5,6 +5,7 @@ import './InfoPage.css';
 // It doesn't have local state
 // It doesn't dispatch any redux actions or display any part of redux state
 // or even care what the redux state is
+// This is the Info Page to let readers know who I am
 
 function InfoPage() {
   return (
