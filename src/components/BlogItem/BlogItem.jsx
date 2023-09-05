@@ -61,7 +61,7 @@ export default function RecipeReviewCard() {
       />
       <CardContent>
         <Typography variant="body2" color="text.secondary">
-          An example post while I'm building the app.
+          A blog post for the cinematography before it is converted in the database.
         </Typography>
       </CardContent>
       <CardActions disableSpacing>
