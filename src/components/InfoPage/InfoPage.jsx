@@ -27,6 +27,7 @@ function InfoPage() {
           I have been attempting to make a weather application through Java. Teaching myself a new language after Prime is difficult,
           and very interesting. My main language has been Javascript since the beginning, but it is always good to push myself.
         </p>
+        <p>This last summer I have primarily coded in Javascript, React, Python, and Swift.</p>
     </div>
   );
 }
