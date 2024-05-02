@@ -1,3 +1,10 @@
+This is a personal blog project to share my personal photography progress on a site that I was able to code and design myself.
+I will be designing this with CSS and Material UI, and use AWS Image Upload to post and store images for the blog.
+
+
+
+Below are instructions on how to get the site up and running for the initial viewing of the site. It uses the template of the solo project from Prime Digital Academy.
+
 
 # Prime Solo Project Starting Repo
 This version uses React, Redux, Express, Passport, and PostgreSQL (a full list of dependencies can be found in `package.json`).
